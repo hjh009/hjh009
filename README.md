@@ -7,3 +7,9 @@
 
 **🛠️ Infra and Tools**
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
+
+
+## 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/-wogh009@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yourname@gmail.com)
+
+[![Blog Badge](https://img.shields.io/badge/-Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://jjaehhoneo.tistory.com/)
